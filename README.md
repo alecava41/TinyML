@@ -6,8 +6,8 @@ The original skeleton of the project can be found at the following [Functional L
 
 ## Implementation
 The skeleton already contains:
-- **Lexer**: parses the source code into tokens (lexer.fsl);
-- **Parser**: receives the output of the lexer as input and produces an Abstract Syntax Tree (parsers.fsy);
+- **Lexer**: parses the source code into tokens (Lexer.fsl);
+- **Parser**: receives the output of the lexer as input and produces an Abstract Syntax Tree (Parsers.fsy);
 - **Type checker**: checks the types of the expressions (Typing.fs);
 - **Evaluator**: evaluates the expressions (Eval.fs).
 
